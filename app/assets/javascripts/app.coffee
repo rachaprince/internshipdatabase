@@ -1,0 +1,2 @@
+internshipdatabse = angular.module('internshipdatabase',[
+])
